@@ -1,0 +1,8 @@
+MarvellousCNN/
+CrackDataset/
+Processed_CrackDataset/
+*.keras
+*.h5
+__pycache__/
+*.pyc
+.vscode/
